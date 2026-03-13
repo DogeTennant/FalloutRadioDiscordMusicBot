@@ -1,0 +1,24 @@
+# Environment variables - never commit your token
+.env
+
+# Songs folder - MP3s are large and copyrighted
+songs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
