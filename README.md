@@ -92,7 +92,7 @@ NOTE - All of this is only relevant if you're trying to build the bot yourself. 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications)
 2. Create a new application and add a bot
 3. Under **OAuth2 -> URL Generator**, select the `bot` and `applications.commands` scopes
-4. Under bot permissions, select: `Connect`, `Speak`, `Send Messages`, `Use Slash Commands`, `View Channels`, `Embed Links`, 
+4. Under bot permissions, select: `Connect`, `Speak`, `Send Messages`, `Use Slash Commands`, `View Channels`, `Embed Links`
 5. Use the generated URL to invite the bot to your server
 
 ## Hosting
