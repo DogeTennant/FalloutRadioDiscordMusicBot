@@ -85,6 +85,8 @@ Title - Artist.mp3
 
 Songs are not included in this repository.
 
+NOTE - All of this is only relevant if you're trying to build the bot yourself. If you simply want to use the bot, you should be able to find it on various Discord Bot websites such as discord.bots.gg or top.gg.
+
 ### Discord Bot Setup
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications)
